@@ -3,9 +3,9 @@ name: "CodeQL JS Analysis, Maven Build"
 on:
   workflow_dispatch:
   push:
-    paths-ignore: 
-      - '*.MD'
-      - '.github/**'
+    #paths-ignore: 
+    #  - '*.MD'
+    #  - '.github/**'
 
 jobs:
   codeql-analysis:
