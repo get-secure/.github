@@ -1,0 +1,8 @@
+{
+    "name": "Code Scanning JS Worklow",
+    "description": "Code Scanning with JS - Building Code w/Maven",
+    "iconName": "example-icon",
+    "categories": [
+        "javascript"
+    ],
+}
